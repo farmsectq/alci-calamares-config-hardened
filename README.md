@@ -1,1 +1,1 @@
-# alci-calamares-config-hardened
+# Alci Calamares config with zen kernel - Plasma
